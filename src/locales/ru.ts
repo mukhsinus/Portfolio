@@ -35,6 +35,12 @@ export default {
   projects: {
     title: "Кейсы",
 
+    mediCare: {
+    title: "Medicare",
+    description:
+      "Информационный сайт медицинского направления с упором на SEO и мультиязычность (RU/UZ/EN). Разработан как лёгкий лендинг на React/Vite/Tailwind с мгновенным переключением языков без перезагрузки страницы. Оптимизирован для высокой скорости и индексации поисковыми системами. Деплой выполнен на Netlify, CDN и DNS управляются через Cloudflare.",
+    },
+
     essenza: {
       title: "Essenza Perfumes",
       description: "Оптовая платформа под Узбекистан (официальный дистрибьютор Argeville): акцент на продажу парфюмов литрами (5–30 L), строгий lux-каталог, мультиязычность (RU/UZ/EN), быстрый лендинг на React/Vite/Tailwind, деплой на Netlify, CDN и DNS через Cloudflare, бэкенд и админ-модуль в разработке, планируется на Node.js/Prisma/PostgreSQL."

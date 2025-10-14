@@ -33,6 +33,12 @@ export default {
   projects: {
     title: "Loyihalar",
 
+    mediCare: {
+    title: "Medicare",
+    description:
+      "Tibbiyot yo‘nalishidagi axborot sayti bo‘lib, SEO va ko‘p tillilikka (RU/UZ/EN) e’tibor qaratilgan. React/Vite/Tailwind asosida ishlab chiqilgan, sahifa yangilamasdan tilni tez almashtirish imkoniyatiga ega. Tez yuklanish va qidiruv tizimlari uchun optimallashtirilgan. Sayt Netlify’da joylashtirilgan, CDN va DNS Cloudflare orqali boshqariladi.",
+    },
+
     essenza: {
     title: "Essenza Perfumes",
     "description": "Oʻzbekiston uchun ulgurji platforma (Argeville rasmiy distributori): atirlar litrda (5–30 L), premium kataloqli ko‘rinish, RU/UZ/EN, React/Vite/Tailwind landing Netlify’da, Cloudflare orqali CDN/DNS, backend/admin Node.js/Prisma/PostgreSQL’da ishlab chiqilmoqda."

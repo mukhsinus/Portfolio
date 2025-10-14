@@ -5,6 +5,7 @@ import { t, getCurrentLang } from "@/i18n";
 import boxingSchoolImg from "@/assets/boxing-school.jpg";
 import ecoLifeImg from "@/assets/eco-life.jpg";
 import essenzaImg from "@/assets/essenza.jpg";
+import mediCareImg from "@/assets/medicare.png";
 
 type Project = {
   id: string;
@@ -119,6 +120,16 @@ export const Projects = () => {
 
     {
       id: "project-3",
+      title: t("projects.mediCare.title"),
+      description: t("projects.mediCare.description"),
+      tech: ["TypeScript", "Vite", "React", "Netlify", "TailwindCSS", "Cloudflare"],
+      liveUrl: "https://medicare-uz.netlify.app/en",
+      githubUrl: "https://github.com/The1uknow/medical_care",
+      image: mediCareImg,
+    },
+
+    {
+      id: "project-4",
       title: t("projects.boxingSchool.title"),
       description: t("projects.boxingSchool.description"),
       tech: ["React", "Node.js", "Telegram Bot", "PostgreSQL"],

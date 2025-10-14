@@ -32,6 +32,12 @@ export default {
   projects: {
     title: "Selected Work",
 
+    mediCare: {
+    title: "Medicare",
+    description:
+      "A medical information website focused on SEO and multilingual support (RU/UZ/EN). Built with React/Vite/Tailwind, featuring instant language switching without page reload. Fully optimized for speed and search engine indexing. Deployed on Netlify with CDN and DNS managed via Cloudflare.",
+    },
+
     essenza: {
     title: "Essenza Perfumes",
     description: "Wholesale platform tailored for Uzbekistan (Argeville official distributor): fragrances sold in liters (5–30 L), luxury catalog visuals, RU/UZ/EN, React/Vite/Tailwind landing on Netlify with Cloudflare, backend/admin in progress, planning on Node.js/Prisma/PostgreSQL."
