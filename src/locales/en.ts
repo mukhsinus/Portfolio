@@ -35,7 +35,7 @@ export default {
     mediCare: {
     title: "Medicare",
     description:
-      "A medical information website focused on SEO and multilingual support (RU/UZ/EN). Built with React/Vite/Tailwind, featuring instant language switching without page reload. Fully optimized for speed and search engine indexing. Deployed on Netlify with CDN and DNS managed via Cloudflare.",
+      "Premium B2B e-commerce platform for medical supplies in Uzbekistan. A full-scale corporate solution developed for an official medical distributor, enabling direct online sales of certified consumables and equipment to clinics and hospitals with a strong focus on trust, regulatory compliance, and brand authority. The platform features a structured product catalog with ordering, clear company positioning, transparent partnership terms, and multilingual support (RU / UZ / EN). Built with a premium visual language and optimized for performance, scalability, and SEO, MEDICARE.UZ functions as a reliable digital sales channel and a long-term corporate asset for an established medical brand.",
     },
 
     essenza: {

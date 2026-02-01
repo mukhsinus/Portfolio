@@ -36,7 +36,7 @@ export default {
     mediCare: {
     title: "Medicare",
     description:
-      "Tibbiyot yo‘nalishidagi axborot sayti bo‘lib, SEO va ko‘p tillilikka (RU/UZ/EN) e’tibor qaratilgan. React/Vite/Tailwind asosida ishlab chiqilgan, sahifa yangilamasdan tilni tez almashtirish imkoniyatiga ega. Tez yuklanish va qidiruv tizimlari uchun optimallashtirilgan. Sayt Netlify’da joylashtirilgan, CDN va DNS Cloudflare orqali boshqariladi.",
+      "O‘zbekistonda tibbiy mahsulotlar uchun premium B2B e-commerce platforma. Rasmiy tibbiy distribyutor uchun ishlab chiqilgan korporativ yechim bo‘lib, klinika va shifoxonalar uchun sertifikatlangan sarf materiallari hamda uskunalarni bevosita onlayn sotishni ta’minlaydi va ishonchlilik, normativ talablarga muvofiqlik hamda brend nufuziga urg‘u beradi. Platforma buyurtma berish imkoniyatiga ega tartibli mahsulotlar katalogi, shaffof hamkorlik shartlari va RU / UZ / EN tillarini qo‘llab-quvvatlaydi hamda yuqori unumdorlik, kengaytirish imkoniyati va SEO optimizatsiyaga yo‘naltirilgan ishonchli raqamli savdo kanali hisoblanadi.",
     },
 
     essenza: {
