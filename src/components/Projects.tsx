@@ -2,10 +2,10 @@ import { ExternalLink, Github } from "lucide-react";
 import { memo, useEffect, useState } from "react";
 import { t, getCurrentLang } from "@/i18n";
 
-import boxingSchoolImg from "@/assets/boxing-school.jpg";
 import ecoLifeImg from "@/assets/eco-life.jpg";
 import essenzaImg from "@/assets/essenza.jpg";
 import mediCareImg from "@/assets/medicare.png";
+import PitStopImg from "@/assets/PitStop One.png";
 
 type Project = {
   id: string;
@@ -130,12 +130,12 @@ export const Projects = () => {
 
     {
       id: "project-4",
-      title: t("projects.boxingSchool.title"),
-      description: t("projects.boxingSchool.description"),
-      tech: ["React", "Node.js", "Telegram Bot", "PostgreSQL"],
-      liveUrl: "https://boxing-school.netlify.app",
-      githubUrl: "https://github.com/mukhsinus/boxing-school",
-      image: boxingSchoolImg,
+      title: t("projects.pitStopOne.title"),
+      description: t("projects.pitStopOne.description"),
+      tech: ["JavaScript", "TypeScript", "React", "Vite", "Tailwind CSS", "HTML5", "CSS3", "Git", "Netlify"],
+      liveUrl: "https://pitstop-one.netlify.app",
+      githubUrl: "https://github.com/mukhsinus/PitStop-One",
+      image: PitStopImg,
     },
 
   ];

@@ -43,9 +43,9 @@ export default {
     description: "Wholesale platform tailored for Uzbekistan (Argeville official distributor): fragrances sold in liters (5–30 L), luxury catalog visuals, RU/UZ/EN, React/Vite/Tailwind landing on Netlify with Cloudflare, backend/admin in progress, planning on Node.js/Prisma/PostgreSQL."
     },
 
-    boxingSchool: {
-      title: "Boxing School",
-      description: "Boxing School is a digital ecosystem for a modern boxing school that combines a lead-generation website, a Telegram bot for booking and payments, and a convenient admin panel for club management.\n\nThanks to the integration of all modules:\n1. clients get the most convenient way to book and pay;\n2. school owners save time and resources on administration;\n3. the business receives a transparent tool for growth and scaling.",
+    pitStopOne: {
+      title: "PitStop One",
+      description: "PitStop One — a web application for auto service management.\nA single-page administration system designed for centralized management of clients, vehicles, and service operations. The project is implemented as a SPA with emphasis on speed, user-friendly interface, and logical data structure. Deployed on Netlify with fast content delivery through CDN.",
     },
 
     ecoLife: {

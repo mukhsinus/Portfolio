@@ -44,9 +44,9 @@ export default {
     "description": "Oʻzbekiston uchun ulgurji platforma (Argeville rasmiy distributori): atirlar litrda (5–30 L), premium kataloqli ko‘rinish, RU/UZ/EN, React/Vite/Tailwind landing Netlify’da, Cloudflare orqali CDN/DNS, backend/admin Node.js/Prisma/PostgreSQL’da ishlab chiqilmoqda."
     },    
 
-    boxingSchool: {
-      title: "Boxing School",
-      description: `Boxing School — bu zamonaviy boks maktabi uchun raqamli ekotizim bo‘lib, u lidlarni jalb qilish sayti, darslarga yozilish va to‘lov uchun Telegram-bot, hamda klubni boshqarish uchun qulay admin-panelni birlashtiradi.\n\nBarcha modullar integratsiyasi tufayli:\n1. mijozlar eng qulay yozilish va to‘lov usuliga ega bo‘ladilar;\n2. maktab egalari ma’muriy ishlar uchun vaqt va resurslarni tejashadi;\n3. biznes esa o‘sish va kengayish uchun shaffof vositaga ega bo‘ladi.`,
+    pitStopOne: {
+      title: "PitStop One",
+      description: "PitStop One — avtoserbis boshqaruvining veb-ilovasi.\nMijozlar, avtomobillar va xizmat operatsiyalarini markaziy boshqarish uchun mo'ljallangan bir sahifali administratsiya tizimi. Loyiha tezlik, foydalanuvchi-dostu interfeys va mantiqiy ma'lumot tuzilmasiga e'tibor qaratib, SPA sifatida amalga oshirilgan. Netlify'da joylashtirilgan, CDN orqali tez kontentni yetkazish ta'minlangan.",
     },
 
     ecoLife: {

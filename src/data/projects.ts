@@ -27,11 +27,10 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "project-1",
-    title: "Boxing School",
-    description: t("projects.boxingSchool.description"),
-    tech: ["HTML", "CSS", "React", "Python", "SQLAlchemy", "FastAPI", "Flusk", "pyTelegramBotAPI", "PostgreSQL"],
-    liveUrl: "https://example.com",
-    githubUrl: "https://github.com/The1uknow/boxing_school",
+    title: "PitStop One",
+    description: t("projects.pitStopOne.description"),
+    tech: ["React", "Node.js", "PostgreSQL", "TypeScript", "Tailwind CSS"],
+    liveUrl: "https://pitstop-one.netlify.app",
     image: ecommerceImage
   },
   {
