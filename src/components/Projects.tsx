@@ -123,8 +123,8 @@ export const Projects = () => {
       title: t("projects.mediCare.title"),
       description: t("projects.mediCare.description"),
       tech: ["TypeScript", "Vite", "React", "Netlify", "TailwindCSS", "Cloudflare"],
-      liveUrl: "https://medicare-uz.netlify.app/en",
-      githubUrl: "https://github.com/The1uknow/medical_care",
+      liveUrl: "https://medicare.uz",
+      githubUrl: "https://github.com/mukhsinus/medical_care",
       image: mediCareImg,
     },
 
@@ -134,7 +134,7 @@ export const Projects = () => {
       description: t("projects.boxingSchool.description"),
       tech: ["React", "Node.js", "Telegram Bot", "PostgreSQL"],
       liveUrl: "https://boxing-school.netlify.app",
-      githubUrl: "https://github.com/The1uknow/boxing-school",
+      githubUrl: "https://github.com/mukhsinus/boxing-school",
       image: boxingSchoolImg,
     },
 
